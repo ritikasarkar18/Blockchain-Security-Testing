@@ -1,0 +1,15 @@
+Client requests
+
+1.
+curl "localhost:5000/txion" \
+     -H "Content-Type: application/json" \
+     -d '{"from": "akjflw", "to":"fjlakdj", "amount": 3}'
+
+2. curl localhost:5000/blocks
+
+3. curl localhost:5000/mine
+
+4. 
+curl "localhost:5000/txion" \
+     -H "Content-Type: application/json" \
+     -d '{"from": "dsdsfd", "to":"fjlakdj", "amount": 2}'
