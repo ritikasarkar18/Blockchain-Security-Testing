@@ -1,1 +1,4 @@
 # Blockchain-Security-Testing
+1. The Ethereum Tester is an open-source API for testing simulated Ethereum transactions and can be integrated with Web3 interface to create a DApp
+2. The Simulated Blockchain is a sample blockchain written in Python, with the backend in Flask and distributed clients can make requests to a local network using the command line. It can be extended to have a frontend user interface to ease transactions.
+3. Smart contracts are written in solidity and after testing them with Truffle suite, they have been deployed to the Ropsten Test network, hence can act as a real DApp, where clients can interact with the deployed contract from anywhere in the world. Each write operation requires some amount of Ether, so you need to have some dummy currency from a faucet in your Metamask wallet.
